@@ -1,0 +1,20 @@
+.gallery {
+    background-color: #E9573F;
+}
+
+#public-landing-page .gallery
+{
+    padding: 15px;
+
+    
+}
+h1, h2, p {
+    font-family: Futura, sans-serif;
+    
+}
+
+p {
+    
+    color: black;
+    font-weight: 200;
+}
